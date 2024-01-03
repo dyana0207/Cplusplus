@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1604700409 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\fa_graf_1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstdlib>
+	"verem.h"
+	"sor.h"
+
+1604494255 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\fa_graf_1\verem.cpp
+	"verem.h"
+
+1604494255 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\fa_graf_1\verem.h
+	<iostream>
+
+1604686431 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\fa_graf_1\sor.cpp
+	"sor.h"
+
+1604686235 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\fa_graf_1\sor.h
+	<iostream>
+

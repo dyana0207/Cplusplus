@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601021691 source:c:\users\zsolt\desktop\dina\szocska j\programozási speciálkollégium\oop\ido.obj\main.cpp
+	<iostream>
+	"Ido.h"
+
+1601022279 c:\users\zsolt\desktop\dina\szocska j\programozási speciálkollégium\oop\ido.obj\ido.h
+
+1601022279 source:c:\users\zsolt\desktop\dina\szocska j\programozási speciálkollégium\oop\ido.obj\ido.cpp
+	"Ido.h"
+

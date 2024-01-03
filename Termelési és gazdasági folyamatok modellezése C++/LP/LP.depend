@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604340133 source:c:\users\diána\desktop\dina\szocska j\modellezés\lp\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<iomanip>
+

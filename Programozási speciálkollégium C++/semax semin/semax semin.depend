@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600006212 source:c:\users\zsolt\desktop\dina\szocska j\programozási speciálkollégium\semax semin\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+

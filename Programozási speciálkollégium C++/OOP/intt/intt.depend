@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602508863 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\oop\intt\main.cpp
+	<iostream>
+	"inttomb.h"
+
+1602510985 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\oop\intt\include\inttomb.h
+	<iostream>
+

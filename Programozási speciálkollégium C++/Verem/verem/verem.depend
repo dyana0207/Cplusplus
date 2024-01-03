@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1603095628 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\verem\verem\src\verem.cpp
+	"verem.h"
+
+1603096062 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\verem\verem\include\verem.h
+	<iostream>
+
+1603095645 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\verem\verem\main.cpp
+	<cstdlib>
+	<time.h>
+	"verem.h"
+

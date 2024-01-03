@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1606060640 source:c:\users\diána\desktop\dina\szocska j\modellezés\modositott normal feladat\modositott_normal\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<iomanip>
+

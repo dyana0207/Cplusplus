@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601055489 source:c:\users\zsolt\desktop\dina\szocska j\modellezés\kétszemélyes zérusösszegû játék\ketszemelyes zerusosszeg\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1601224460 source:c:\users\diána\desktop\dina\szocska j\modellezés\ketszemelyes zerusosszegu jatek\ketszemelyes zerusosszeg\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+

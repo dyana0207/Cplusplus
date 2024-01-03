@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603704492 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\ketiranyu lancolt lista\main.cpp
+	<iostream>
+	"lista.h"
+
+1603704505 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\ketiranyu lancolt lista\include\lista.h
+	<iostream>
+

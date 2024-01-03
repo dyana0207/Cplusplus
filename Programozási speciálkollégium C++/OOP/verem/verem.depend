@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1602496350 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\oop\verem\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	"StatIntVerem.h"
+	"StatIntVeremPointer.h"
+
+1602495841 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\oop\verem\include\statintverem.h
+
+1602495870 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\oop\verem\src\statintverem.cpp
+	"StatIntVerem.h"
+
+1602496370 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\oop\verem\include\statintverempointer.h
+	<iostream>
+
+1602497358 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\oop\verem\src\statintverempointer.cpp
+	"StatIntVeremPointer.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604609243 source:c:\users\diána\desktop\dina\szocska j\modellezés\kevert strategia\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+

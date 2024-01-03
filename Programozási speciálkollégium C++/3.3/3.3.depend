@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600359547 source:c:\users\zsolt\desktop\dina\szocska j\programozási speciálkollégium\3.3\main.cpp
+	<iostream>
+	<fstream>
+

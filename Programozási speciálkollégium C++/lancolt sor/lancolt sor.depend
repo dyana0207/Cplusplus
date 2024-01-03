@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1603279704 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\lancolt sor\main.cpp
+	<iostream>
+	"sor.h"
+	<cstdlib>
+	<time.h>
+
+1603279907 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\lancolt sor\include\sor.h
+	<iostream>
+
+1603283290 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\lancolt sor\src\sor.cpp
+	"sor.h"
+

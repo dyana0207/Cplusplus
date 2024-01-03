@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600362053 source:c:\users\zsolt\desktop\dina\szocska j\programozási speciálkollégium\3.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

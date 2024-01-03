@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605262121 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\divide fagraf\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstdlib>
+

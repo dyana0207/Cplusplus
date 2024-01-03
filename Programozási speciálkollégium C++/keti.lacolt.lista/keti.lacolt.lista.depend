@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603883507 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\keti.lacolt.lista\main.cpp
+	<iostream>
+	"lista.h"
+
+1603886873 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\keti.lacolt.lista\include\lista.h
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604264057 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\statikus_egyiranyu_lancolt_lista\main.cpp
+	<iostream>
+	"lista.h"
+
+1604253990 c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\statikus_egyiranyu_lancolt_lista\include\lista.h
+	<iostream>
+
+1604264049 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\statikus_egyiranyu_lancolt_lista\src\lista.cpp
+	"lista.h"
+

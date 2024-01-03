@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605858878 source:c:\users\diána\desktop\dina\szocska j\programozási speciálkollégium\backrtracing_haromszog\main.cpp
+	<iostream>
+	<fstream>
+
